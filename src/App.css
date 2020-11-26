@@ -1,0 +1,145 @@
+.navbar-link {
+  color: white;
+  text-decoration: none;
+}
+
+.error {
+  color: red;
+}
+
+#race-input {
+  border-top-color: purple;
+}
+
+#google-login-button {
+  outline: none;
+  background-color: white;
+  border: 1px gray solid;
+  border-radius: 40px;
+  height: 50px;
+  width: 230px;
+  cursor: pointer;
+}
+#google-login-button:hover {
+  background-color: rgb(238, 238, 238);
+}
+
+#google-login-image {
+  width: 20px;
+  height: 20px;
+  margin-right: 15px;
+}
+
+#google-login-text {
+  display: inline;
+  position: relative;
+  bottom: 4px;
+}
+
+.profile #list {
+  margin: 20px;
+  margin-top: 0px;
+}
+
+#simple-menu .MuiPopover-paper {
+  margin-top: 45px;
+}
+
+.page-title {
+  font-family: "Raleway", sans-serif;
+  font-size: 40px;
+}
+
+#body {
+  height: 92vh;
+  font-family: "Raleway", sans-serif;
+  color: #00175c;
+}
+
+#body .MuiPaper-root {
+  color: #00175c;
+}
+
+#body .home-button {
+  width: 200px;
+  background-color: #f27d42;
+  color: white;
+  outline: none;
+  border: none;
+}
+
+#body .home-button:hover {
+  width: 200px;
+  background-color: #ff8548;
+  color: white;
+  outline: none;
+  border: none;
+  box-shadow: 0px 1px 3px -1px rgba(0, 0, 0, 0.2),
+    0px 2px 3px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+}
+
+#body .back-button {
+  background-color: #f27d42;
+  color: white;
+  outline: none;
+  border: none;
+}
+
+#body .back-button:hover {
+  background-color: #ff8548;
+  color: white;
+  outline: none;
+  border: none;
+  box-shadow: 0px 1px 3px -1px rgba(0, 0, 0, 0.2),
+    0px 2px 3px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+}
+
+#body .race-room-paper {
+  background-color: #f3f2f2;
+}
+
+#root .MuiAppBar-colorPrimary {
+  background-color: #f27d42;
+  box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2),
+    0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+}
+
+#body .MuiListItem-secondaryAction {
+  padding-right: 0;
+}
+
+#body .MuiListItemSecondaryAction-root {
+  right: 1px;
+}
+
+#body .start-race-button {
+  background-color: #00175c;
+  color: white;
+  outline: none;
+  border: none;
+}
+
+#body .start-race-button:hover {
+  background-color: #001f7b;
+  color: white;
+  outline: none;
+  border: none;
+  box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2),
+    0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+}
+
+#body .logout-button {
+  background-color: #00175c;
+  color: white;
+  outline: none;
+  border: none;
+}
+
+#body .logout-button:hover {
+  background-color: #001f7b;
+  color: white;
+  outline: none;
+  border: none;
+  box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2),
+    0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+}
